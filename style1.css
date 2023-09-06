@@ -1,0 +1,81 @@
+
+
+body
+{
+    background: url(https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/12/Gradient_builder_2.jpg?auto=format&q=60&w=1815&h=1200&fit=crop&crop=faces);
+    font-family: Lato, "Arial", Helvetica,sans-serif;
+    font-family: 'Unbounded', cursive;
+   
+    padding:50px;
+
+} 
+.hero_section
+{
+    font-weight: bolder;
+    display: inline;
+    /* position: absolute; */
+    color: rgb(5, 77, 27);
+    font-size: 60px;
+    padding:100px;
+   
+    
+   
+}
+
+
+img
+{
+    display: inline;
+    position: absolute;
+    right: 0px;
+    top: 60px;
+    width: 600px;
+    margin: 30px;
+    border: 3px solid #010200;
+    border-radius: 25px;
+  
+}
+
+
+.ourservices
+{
+    float: left;
+    
+   
+}
+
+
+.ourservices li
+ {
+    
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    display: inline-block; top: 10px;
+    font-weight:400;
+    font-size: 18px;
+    padding: 60px 150px;
+    text-align: center;
+  
+  }
+path
+{
+    
+      fill: rgb(255, 255, 255);
+  }
+
+path:hover
+{
+    
+    fill: #fffb00;
+}
+
+.ourservices li:hover
+{
+    color: rgb(90, 129, 105);
+    font-style:normal
+}
+
+
+
+
